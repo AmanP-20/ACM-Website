@@ -71,7 +71,7 @@
     height: 100%;
 }
 body {
-    background-image: url('/Websites/ACM/IMAGES/BG_ACM.jpg');
+    background-image: url('/IMAGES/BG_ACM.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
